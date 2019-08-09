@@ -1,0 +1,13 @@
+level_id, cycle_id, cycle_date, report_group_id, report_group_code, report_group_full_name, report_code, report_full_name        , report_type, report_id
+1,          1,      1231232131,                ,                  ,                       ,            ,                 		 ,
+2,          1,       		  ,        1       ,         DS       ,     Daily Statement   ,            ,                 		 , 
+2,          1,       		  ,        2	   ,         YS       ,     Yearly Statement ,            ,                 		 ,                  
+3,           ,      		  ,        1       ,                  ,                       ,     DSTM   , Daily Statement Report  ,     pdf    ,   1
+3,           ,      		  ,        1       ,                  ,                       ,     FSCM ,  Closing Statement Report  ,     pdf    ,   2
+1,          2,      9767795704,                ,                  ,                       ,            ,                 		 ,
+2,          2,       		  ,        3       ,         CS       ,     Custom Statement   ,            ,                 		 , 
+2,          2,       		  ,        4       ,         DS       ,     Daily Statement   ,            ,                 		 , 
+2,          2,       		  ,        5       ,         DS       ,     Daily Statement   ,            ,                 		 , 
+2,          2,       		  ,        6       ,         DS       ,     Daily Statement   ,            ,                 		 , 
+3,           ,      		  ,        4       ,                  ,                       ,     FSCM ,  Closing Statement Report  ,     xml ,   3
+3,           ,      		  ,        3       ,                  ,                       ,     FSCM ,  This is new  ,     pdf    ,   4
